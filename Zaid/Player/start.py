@@ -8,9 +8,9 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT
 
 
 ALIVE_PIC = START_PIC
-HOME_TEXT = "👋🏻 **Hi Sir [{}](tg://user?id={})** \n\n🤖 Im **SMSM Vc Player**. \n**I Can Stream Lives, Radios, Raid, Vc Raid, YouTube Videos & Telegram Video Files On Voice Chat Of Telegram Groups**"
+HOME_TEXT = "👋🏻 **اهلا وسهلا بيك[{}](tg://user?id={})** \n\n🤖 انا **سورس سمسم**. \n**انا أقدر اشغل الاغاني والفيديوهات والليفات والاستريم واليوتوب في المحادثه الصوتيه للجروبات فتيليجرام 👀🍷**"
 HELP_TEXT = """
-🏷️ **Setup Guide** :
+🏷️ **دليل التفعيل😒♥️** :
 
 \u2022 Start a voice chat in your group.
 \u2022 Add bot and user account in chat with admin rights.
